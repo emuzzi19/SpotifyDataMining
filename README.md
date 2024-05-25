@@ -16,9 +16,9 @@ The Spotify Data Mining project explores audio features data collected from Spot
 
 ## Project Structure
 
-    - SotifyDataMining.ipynb: Jupyter notebooks used for exploratory data analysis.
-    - SpotifyData.pdf: Analysis of trends found through data mining
-    - README.md: This README file.
+- SotifyDataMining.ipynb: Jupyter notebooks used for exploratory data analysis.
+- SpotifyData.pdf: Analysis of trends found through data mining
+- README.md: This README file.
 
 ## Data
 

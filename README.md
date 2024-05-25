@@ -24,17 +24,17 @@ The Spotify Data Mining project explores audio features data collected from Spot
 
 The dataset contains various audio features of songs such as:
 
-    - Acousticness: Measures whether the track is acoustic.
-    - Danceability: Describes how suitable a track is for dancing based on tempo, rhythm stability, beat strength, and overall regularity.
-    - Instrumentalness: Predicts whether a track contains no vocals.
-    - Key: Indicates the key the track is in.
-    - Liveness: Detects the presence of an audience in the recording.
-    - Loudness: Overall loudness of a track in decibels.
-    - Mode: Indicates the modality (major or minor) of a track.
-    - Speechiness: Detects the presence of spoken words in a track.
-    - Tempo: Overall estimated tempo of a track in beats per minute.
-    - Time Signature: Notational convention to specify how many beats are in each bar.
-    - Valence: Measures the musical positiveness conveyed by a track.
+- Acousticness: Measures whether the track is acoustic.
+- Danceability: Describes how suitable a track is for dancing based on tempo, rhythm stability, beat strength, and overall regularity.
+- Instrumentalness: Predicts whether a track contains no vocals.
+- Key: Indicates the key the track is in.
+- Liveness: Detects the presence of an audience in the recording.
+- Loudness: Overall loudness of a track in decibels.
+- Mode: Indicates the modality (major or minor) of a track.
+- Speechiness: Detects the presence of spoken words in a track.
+- Tempo: Overall estimated tempo of a track in beats per minute.
+- Time Signature: Notational convention to specify how many beats are in each bar.
+- Valence: Measures the musical positiveness conveyed by a track.
 
 ## Analysis
 
